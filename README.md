@@ -1,4 +1,3 @@
-
 # 👨‍💼 Employee Management Portal
 
 ### A Python-Based Employee Management System
@@ -87,7 +86,7 @@ Default local URL:
 ```text
 http://localhost:8501
 ```
-## 🗄️ Database Structure
+##  ~D️ Database Structure
 
 The application uses an SQLite database named `employees.db`.
 
@@ -103,7 +102,7 @@ The employees table contains the following fields:
 | salary | Employee salary |
 | joining_date | Employee joining date |
 
-## 🔄 Application Modules
+##  ~D Application Modules
 
 1. Dashboard – Displays employee statistics.
 2. Add Employee – Registers new employees.
@@ -111,7 +110,7 @@ The employees table contains the following fields:
 4. Update Employee – Modifies existing employee information.
 5. Delete Employee – Removes employee records.
 
-## 🚀 Future Enhancements
+##  ~@ Future Enhancements
 
 - Admin login and authentication.
 - Employee profile management.
@@ -123,12 +122,12 @@ The employees table contains the following fields:
 - Database integration with MySQL or MongoDB.
 - Deployment on Streamlit Community Cloud.
 
-## 👩‍💻 Author
+##  M-)‍ M-; Author
 
 **Disha Dutta**
 
 GitHub: https://github.com/Disha-1012
 
-## 📄 License
+##  ~D License
 
 This project is available for educational and learning purposes.
