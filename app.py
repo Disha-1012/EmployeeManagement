@@ -8,10 +8,7 @@ st.set_page_config(
     page_icon="👨‍💼",
     layout="wide"
 )
-
-
 DB_NAME = "employees.db"
-
 
 def get_connection():
     return sqlite3.connect(DB_NAME)
