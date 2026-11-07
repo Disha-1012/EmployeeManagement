@@ -93,7 +93,6 @@ Default local URL:
 ```text
 http://localhost:8501
 ```
-
 ## 🗄️ Database Structure
 
 The application uses an SQLite database named `employees.db`.
