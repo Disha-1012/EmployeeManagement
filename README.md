@@ -80,12 +80,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 6. Run the Application
-
-```bash
-streamlit run app.py
-```
-
 The application will open in your default browser.
 
 Default local URL:
