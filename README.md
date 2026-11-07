@@ -39,23 +39,21 @@ Employee-Management-Portal/
 ├── app.py
 ├── README.md
 ├── requirements.txt
-└── employees.db
+└── index.html
 ```
-
-Note: `employees.db` is automatically created when the application runs.
 
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Employee-Management-Portal.git
+git clone https://github.com/Disha-1012/EmployeeManagement.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd Employee-Management-Portal
+cd EmployeeManagement
 ```
 
 ### 3. Create a Virtual Environment
@@ -70,9 +68,7 @@ For Windows:
 
 ```bash
 venv\Scripts\activate
-```
-
-For macOS/Linux:
+`For macOS/Linux:
 
 ```bash
 source venv/bin/activate
@@ -136,7 +132,7 @@ The employees table contains the following fields:
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Disha Dutta**
 
 GitHub: https://github.com/Disha-1012
 
